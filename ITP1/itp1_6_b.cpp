@@ -35,7 +35,4 @@ int main(){
       if(!exist) cout << key << " " << i << endl;
     }
   }
-  
-
-  return 0;
 }
